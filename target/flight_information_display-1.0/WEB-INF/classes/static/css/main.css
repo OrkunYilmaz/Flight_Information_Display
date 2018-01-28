@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+th {
+    color: yellow;
+    font-size: 150%;
+}
+
+td {
+    color: white;
+    font-size: 125%;
+}
+
+p {
+    color: white;
+    font-size: 125%;
+    align: center;
+}
